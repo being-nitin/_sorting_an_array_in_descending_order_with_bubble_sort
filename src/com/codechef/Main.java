@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-	//
+	// sort an array in descending order by using bubble sort
       int[] num = {7,5,8,9,1};
       descsort(num);
         System.out.println(Arrays.toString(num));
